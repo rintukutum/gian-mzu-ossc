@@ -6,3 +6,5 @@
 - Introduction to conda
 - Introduction to git & GitHub
 
+## DAY 02
+- Intermediate Level Linux
